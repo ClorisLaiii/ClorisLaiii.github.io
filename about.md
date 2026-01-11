@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Cloris, a high school student studying at an ib school in Guangdong. As a coffee enthusiast, I have found that people's usual love for coffee is too general, without understanding its true flavor and the story behind it. So I think we should create this website to help everyone understand it better and make good use of this resource to give coffee lovers a sense of belonging!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will share posters, articles and videos about coffee with all of you! Help everyone understand coffee better and become a true coffee lover! Welcome to follow
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[laicloris405@gmail.com](mailto:laicloris405@gmail.com)
