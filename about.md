@@ -1,3 +1,4 @@
+![My photo](/avatar.png)
 ---
 layout: page
 title: About
